@@ -18,6 +18,6 @@
 - compile and fit model
 
 ## data_collection
-- scrape online articles, isolate <p> bodies and write to txt files
+- scrape online articles, isolate < p > bodies and write to txt files
 - tokenise new data using the same parameters as in the model
 - load model and predict using new data
